@@ -1,22 +1,20 @@
 * {
   text-align: center;
+  font-family: "Audiowide", sans-serif;
 }
 h1 {
   color:#cf5dc1; 
-  text-align: center;
+  font-size: 30px;
 }
 h2 {
   color:#d154a3;
-  text-align: center;
+  font-size: 25px;
 }
  p {
   color:#855dc9;
-  text-align: center;
+  font-size: 23px;
 }
   
-* {
-  font-family: "Audiowide", sans-serif;
-}
 
 
 <p class="font-effect-neon">Neon Effect</p>
